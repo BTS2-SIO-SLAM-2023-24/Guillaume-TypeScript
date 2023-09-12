@@ -23,7 +23,7 @@ class Employe {
     constructor(
         public id: number,
         public nom: string,
-        public animal: Animal,
+        public animal: Animal
     ) {}
 
     travaillerAvec(animal: Animal): void {
@@ -55,6 +55,7 @@ const chat1 = new Chat(2, "Whiskers", 3, new Date("2023-01-01"), new Date("2023-
 const employe1 = new Employe(1, "John", chat1);
 const employe2 = new Employe(2, "Alice", chien1);
 const employe3 = new Employe(3, "Bob", null);
+
 
 
 
