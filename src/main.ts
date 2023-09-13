@@ -15,5 +15,7 @@ chien1.annoncerBruit();
 employe1.assignerAnimal(chien1);
 employe2.travaillerAvec(chat1);
 employe3.setAnimal(chat1);
-employe4.retirerAnimal(chat1);
+employe4.retirerAnimal();
+chat1.setAnimalHeureux(true);
+chat1.miauler();
 

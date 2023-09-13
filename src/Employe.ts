@@ -1,4 +1,5 @@
 import { Animal } from "./Animal";
+import {Chat} from "./Chat";
 
 export class Employe {
     constructor(
@@ -32,6 +33,7 @@ export class Employe {
             console.log(`${this.nom} n'a pas d'animal à retirer.`);
         }
     }
+
 
 
 }
