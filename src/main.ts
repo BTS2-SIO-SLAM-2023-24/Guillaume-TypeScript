@@ -18,4 +18,5 @@ employe3.setAnimal(chat1);
 employe4.retirerAnimal();
 chat1.setAnimalHeureux(true);
 chat1.miauler();
+chien1.estAnimalHeureux();
 

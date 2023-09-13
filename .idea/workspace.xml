@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8912be-1245-4343-a4b4-c3d5f463aaa1" name="Changes" comment="instancer quelque méthodes dans main.ts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
       <updated>1694511832184</updated>
       <workItem from="1694511833539" duration="1000" />
       <workItem from="1694586212505" duration="238000" />
-      <workItem from="1694587254189" duration="5256000" />
+      <workItem from="1694587254189" duration="5613000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1694512883919</created>
@@ -142,22 +142,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694591208924</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="instancer quelque méthodes dans main.ts">
+      <created>1694592724450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694592724450</updated>
+    </task>
+    <task id="LOCAL-00010" summary="instancer quelque méthodes dans main.ts">
+      <created>1694592731074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694592731074</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Animal.js" />
-        <option value="$PROJECT_DIR$/src/Employe.d.ts" />
-        <option value="$PROJECT_DIR$/src/Chien.d.ts" />
         <option value="$PROJECT_DIR$/src/Chien.js" />
-        <option value="$PROJECT_DIR$/src/main.d.ts" />
-        <option value="$PROJECT_DIR$/src/Animal.d.ts" />
-        <option value="$PROJECT_DIR$/src/Employe.js" />
-        <option value="$PROJECT_DIR$/src/Chat.d.ts" />
+        <option value="$PROJECT_DIR$/src/Animal.js" />
         <option value="$PROJECT_DIR$/src/Chat.js" />
+        <option value="$PROJECT_DIR$/src/Employe.js" />
       </list>
     </option>
   </component>
