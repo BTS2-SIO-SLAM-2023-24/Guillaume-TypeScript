@@ -20,7 +20,9 @@ export class Animal {
 
     getAge(): number {
         return this.age;
-    } 
+    }
+
+
 
     setAnimalHeureux(heureux: boolean): void {
         this.animalHeureux = heureux;
