@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8912be-1245-4343-a4b4-c3d5f463aaa1" name="Changes" comment="commit n°3">
-      <change afterPath="$PROJECT_DIR$/src/Animal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chien.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employe.ts" afterDir="false" />
+    <list default="true" id="6a8912be-1245-4343-a4b4-c3d5f463aaa1" name="Changes" comment="instancer quelque méthodes dans main.ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,7 @@
     "javascript.nodejs.core.library.configured.version": "20.6.1",
     "javascript.nodejs.core.library.typings.version": "20.6.0",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.4\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
@@ -55,6 +52,27 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guill\Documents\Workspace\Java\ts\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Employe.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="enabledTsNodeEsmLoader" value="false" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/src/Employe.ts" />
+      <option name="programParameters" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TypeScript.Employe.ts" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +84,7 @@
       <updated>1694511832184</updated>
       <workItem from="1694511833539" duration="1000" />
       <workItem from="1694586212505" duration="238000" />
-      <workItem from="1694587254189" duration="3558000" />
+      <workItem from="1694587254189" duration="5256000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1694512883919</created>
@@ -110,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694589872548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mise à jour structure du projet">
+      <created>1694591192910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694591192910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="mise à jour structure du projet">
+      <created>1694591208924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694591208924</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +176,12 @@
     <MESSAGE value="test1" />
     <MESSAGE value="commit n°2" />
     <MESSAGE value="commit n°3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit n°3" />
+    <MESSAGE value="mise à jour structure du projet" />
+    <MESSAGE value="instancer quelque méthodes dans main.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="instancer quelque méthodes dans main.ts" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

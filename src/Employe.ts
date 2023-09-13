@@ -17,11 +17,21 @@ export class Employe {
 
     setAnimal(nouvelAnimal: Animal | null): void {
         this.animal = nouvelAnimal;
-        if (nouvelAnimal){
-            console.log(`${this.nom} a reçu un nouvel animal : ${nouvelAnimal.nom}.`)
+        if (nouvelAnimal) {
+            console.log(`${this.nom} a reçu un nouvel animal : ${nouvelAnimal.nom}.`);
+        } else {
+            console.log(`${this.nom} n'a plus d'animal.`);
+        }
+    }
+
+    retirerAnimal(): void {
+        if (this.animal) {
+            console.log(`${this.nom} a retiré l'animal ${this.animal.nom}.`);
             this.animal = null;
-        }else {
+        } else {
             console.log(`${this.nom} n'a pas d'animal à retirer.`);
         }
     }
+
+
 }
