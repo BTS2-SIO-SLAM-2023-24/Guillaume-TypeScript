@@ -8,6 +8,8 @@ export class Employe {
         public animal: Animal | null
     ) {}
 
+
+
     travaillerAvec(animal: Animal): void {
         console.log(`${this.nom} travaille avec ${animal.nom} le ${animal.constructor.name}.`);
     }
@@ -33,5 +35,10 @@ export class Employe {
             console.log(`${this.nom} n'a pas d'animal à retirer.`);
         }
     }
+
+    getIdEmploye(): number{
+        return this.id;
+    }
+
 
 }

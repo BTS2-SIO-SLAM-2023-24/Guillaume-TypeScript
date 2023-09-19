@@ -17,4 +17,8 @@ employe3.setAnimal(chat1);
 employe4.retirerAnimal();
 chat1.setAnimalHeureux(true);
 chat1.miauler();
+employe4.getIdEmploye();
 console.log(chien1.estAnimalHeureux());
+chat1.getAge();
+chien1.interagir();
+
